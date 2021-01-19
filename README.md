@@ -1,7 +1,5 @@
 # HousingPricesMultipleRegression
-This project is basically a linear regression project with multiple variables. I used a random data set supplied by Kaggle.com (can be found here: https://www.kaggle.com/ashydv/housing-dataset?select=Housing.csv) that had lots of data about housing including the price of houses, the area of the house, whether or not there is a basement in the house, whether the house has air conditioning or not etc. I used only the data that had a numerical value attached to it as this was what I intended to do. With this data I was able to create a program that predicts the housing price with user inputs.
-
-
+This project is basically a linear regression project with multiple variables. I used a random data set supplied by Kaggle.com (can be found here: https://www.kaggle.com/ashydv/housing-dataset?select=Housing.csv) that had lots of data about housing including the price of houses, the area of the house, whether or not there is a basement in the house, whether the house has air conditioning or not etc. I used only the data that had a numerical value attached to it as this was what I intended to do. With this data I was able to create a program that predicts the housing price with user inputs.<br />
 
 **Process**
 
